@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define FW_VERSION "1.0.0"
+#define FW_VERSION "1.1.0"
 
 void valve_open(int percent);
 
