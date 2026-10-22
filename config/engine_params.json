@@ -1,5 +1,5 @@
 {
   "engine_id": "HX-DEMO-01",
   "max_chamber_pressure_bar": 30,
-  "burn_duration_s": 10
+  "burn_duration_s": 12
 }
